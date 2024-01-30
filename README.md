@@ -62,6 +62,7 @@ If you'd like to contribute to the project, follow these steps:
 
 ## Output
 
+![image](https://github.com/Janashree2004/Fashion_Event/assets/142415775/5e16a1e6-c361-4529-8407-4110da7981d6)
 
 
 ## License
